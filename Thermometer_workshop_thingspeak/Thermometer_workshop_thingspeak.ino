@@ -1,7 +1,7 @@
 /*
  * Digital IoT Thermometer 
  * 
- * This code is an exampleto show you how to connect your DIY thermometer to internet: 
+ * This code is an example to show you how to connect your DIY thermometer to the internet: 
  * - ESP32 development module
  * - LED with its resistance for 3.3V operation
  * - 0.91 Inch OLED Display I2C SSD1306 Chip 128 x 32 resolution
