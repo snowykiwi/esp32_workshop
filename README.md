@@ -5,3 +5,5 @@
 * Online data from device developed on this workshop by [ThingSpeak](https://thingspeak.com/channels/2475269).
 
 Original code and wiki produced by Adrian Gallardo and Cristian Orrego at the Centro de Estudios Avanzados en Zonas Áridas (CEAZA), Chile. Modifications made by Shelley MacDonell at the University of Canterbury, New Zealand. 
+
+See MIT License. 
